@@ -1,4 +1,4 @@
-# AimeNdumuhire_poe_part1
+## Programing_POE_Part2
 Programing POE
 Recipe Application
 
@@ -10,7 +10,7 @@ Install Visual Studio: Make sure you have Visual Studio installed on your system
 
 Clone the Repository: Clone the repository to my local machine using Git or download the zip file and extract it.
 
-https://github.com/aime-ishimwe/AimeNdumuhire_poe_part1
+https://github.com/aime-ishimwe/Programming_POE_Part2/tree/main/AimeNdumuhire_st10255663_POE
 
 Open Solution in Visual Studio: Open Visual Studio and navigate to File > Open > AimeNdumuhire_poe_part1. 
 
