@@ -20,6 +20,7 @@ namespace AimeNdumuhire_st10255663_POE
 
         {
             Console.WriteLine("Enter number of recipes");
+            //lets user enter how many recipes will be entered into the app
             int recipeNum;
             if (int.TryParse(Console.ReadLine(), out recipeNum))
             {
@@ -32,6 +33,8 @@ namespace AimeNdumuhire_st10255663_POE
                     dictionaryRecipe.Add(recipeName, recipe);
 
                 }
+
+                //lets user see ingridients and recipes if they would like to
                 String ans;
                 do {
                     Console.WriteLine("Display ingridients and steps? (Y/N)");
@@ -59,6 +62,8 @@ namespace AimeNdumuhire_st10255663_POE
                 Console.WriteLine("Please enter a number");
             }
         }
+
+        //method to display recipes
         public void recipelist()
         {
             foreach(var recipeEntry in dictionaryRecipe)
@@ -66,6 +71,7 @@ namespace AimeNdumuhire_st10255663_POE
                 Console.WriteLine($"Recipe Name:{recipeEntry.Key} ");
             }
         }
+        //method to find recipes
         public void recipeFinder()
         {
             Console.WriteLine("Please enter the name of the recipe");

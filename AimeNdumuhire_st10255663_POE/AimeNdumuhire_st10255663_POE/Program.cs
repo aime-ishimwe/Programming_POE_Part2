@@ -6,7 +6,7 @@ class Program
 {
     static void Main(string[] args)
     {
-
+        //calls the Appmenu class
          Dictionary<String, RecipeManager> dictionaryRecipe = new Dictionary<string, RecipeManager>();
          Appmenu menu = new Appmenu(dictionaryRecipe);
         menu.appMenu();

@@ -20,6 +20,7 @@ namespace AimeNdumuhire_st10255663_POE
         {
             while(true)
             {
+                //the menu that is shown when the application is open
                 Console.ForegroundColor = ConsoleColor.Blue;
                 Console.WriteLine("=============================================================================");
                 Console.WriteLine("RECIPE APP");

@@ -102,6 +102,7 @@ namespace AimeNdumuhire_st10255663_POE
             }
 
 
+            //method to calculate the number of calories
             public double calculateTotal(double[] calories)
             {
                 double result = 0;
