@@ -1,0 +1,14 @@
+C:\Users\aimei\source\repos\AimeNdumuhire_st10255663_POE\AimeNdumuhire_st10255663_POE\obj\Debug\net8.0\AimeNdumuhire_st10255663_POE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aimei\source\repos\AimeNdumuhire_st10255663_POE\AimeNdumuhire_st10255663_POE\obj\Debug\net8.0\AimeNdumuhire_st10255663_POE.AssemblyInfoInputs.cache
+C:\Users\aimei\source\repos\AimeNdumuhire_st10255663_POE\AimeNdumuhire_st10255663_POE\obj\Debug\net8.0\AimeNdumuhire_st10255663_POE.AssemblyInfo.cs
+C:\Users\aimei\source\repos\AimeNdumuhire_st10255663_POE\AimeNdumuhire_st10255663_POE\obj\Debug\net8.0\AimeNdumuhire_st10255663_POE.csproj.CoreCompileInputs.cache
+C:\Users\aimei\source\repos\AimeNdumuhire_st10255663_POE\AimeNdumuhire_st10255663_POE\bin\Debug\net8.0\AimeNdumuhire_st10255663_POE.exe
+C:\Users\aimei\source\repos\AimeNdumuhire_st10255663_POE\AimeNdumuhire_st10255663_POE\bin\Debug\net8.0\AimeNdumuhire_st10255663_POE.deps.json
+C:\Users\aimei\source\repos\AimeNdumuhire_st10255663_POE\AimeNdumuhire_st10255663_POE\bin\Debug\net8.0\AimeNdumuhire_st10255663_POE.runtimeconfig.json
+C:\Users\aimei\source\repos\AimeNdumuhire_st10255663_POE\AimeNdumuhire_st10255663_POE\bin\Debug\net8.0\AimeNdumuhire_st10255663_POE.dll
+C:\Users\aimei\source\repos\AimeNdumuhire_st10255663_POE\AimeNdumuhire_st10255663_POE\bin\Debug\net8.0\AimeNdumuhire_st10255663_POE.pdb
+C:\Users\aimei\source\repos\AimeNdumuhire_st10255663_POE\AimeNdumuhire_st10255663_POE\obj\Debug\net8.0\AimeNdumuhire_st10255663_POE.dll
+C:\Users\aimei\source\repos\AimeNdumuhire_st10255663_POE\AimeNdumuhire_st10255663_POE\obj\Debug\net8.0\refint\AimeNdumuhire_st10255663_POE.dll
+C:\Users\aimei\source\repos\AimeNdumuhire_st10255663_POE\AimeNdumuhire_st10255663_POE\obj\Debug\net8.0\AimeNdumuhire_st10255663_POE.pdb
+C:\Users\aimei\source\repos\AimeNdumuhire_st10255663_POE\AimeNdumuhire_st10255663_POE\obj\Debug\net8.0\AimeNdumuhire_st10255663_POE.genruntimeconfig.cache
+C:\Users\aimei\source\repos\AimeNdumuhire_st10255663_POE\AimeNdumuhire_st10255663_POE\obj\Debug\net8.0\ref\AimeNdumuhire_st10255663_POE.dll
